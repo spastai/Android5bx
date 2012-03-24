@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#ffce5b</color>
+    <color name="green" >#8000FF00</color>
+
+    <color name="progress_start" >#8000FF00</color>
+    <color name="progress_end" >#ffce5b</color>
+</resources>

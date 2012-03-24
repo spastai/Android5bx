@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HomeActivity!</string>
+    <string name="app_name">5bx</string>
+    <string name="home_button_start">Start</string>
+    <string name="home_menu_Level">Level</string>
+    <string name="exercisize_label_nr">Exercise nr:</string>
+    <string name="exercisize_label_count">Count:</string>
+    <string name="exercisize_ch1_1">Feet astride, arms upward. Forward bend to floor touching then stretch upward and backward bend. Do not strain to keep knees straight.</string>
+    <string name="exercisize_label_level">Level:</string>
+    <string name="exercize_format_level">Chart %1$d level %2$c (%3$d)</string>
+    <string name="select_level_label_enter">Enter</string>
+    <string name="congrats_greeting">One more good day!</string>
+</resources>
